@@ -80,6 +80,13 @@ html,body {
 	width: 100%;
 	margin-bottom: 2rem;
 }
+.blur {
+	display: block;
+  max-width: 100%;
+  height: auto;
+  filter: blur(0.4em);
+}
+
 .gif {
 	max-width: 100%;
 }
@@ -207,7 +214,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/fixedbg2.png');
+  background-image: url('img/fixedbg.png');
   position: fixed;
   display: block;
   top: 0;
