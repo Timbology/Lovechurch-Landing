@@ -99,6 +99,10 @@ html,body {
 .fa-facebook:hover, .fa-instagram:hover, .fa-facebook:hover{
 	color: #d5d5d5;
 }
+.footericon {
+    height: 15px;
+    margin-right: 5px;
+}
 
 footer {
 	background-color: #3f3f3f;
@@ -203,7 +207,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('img/fixedbg.png');
   position: fixed;
   display: block;
   top: 0;
