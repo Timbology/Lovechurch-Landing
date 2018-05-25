@@ -103,7 +103,7 @@ html,body {
 .fa-youtube{
 	color: #bb0000;
 }
-.fa-facebook:hover, .fa-instagram:hover, .fa-youtube:hover{
+.fa-facebook:hover, .fa-instagram:hover, .fa-facebook:hover{
 	color: #d5d5d5;
 }
 .footericon {
@@ -112,9 +112,13 @@ html,body {
 }
 
 footer {
-	background-color: #3f3f3f;
-	color: #d5d5d5;
-	padding-top:2rem;
+	background: #292f36;
+    color: #fefefe;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+    font-size: .875rem;
+    font-weight: 600;
 }
 hr.light {
 	border-top: 1px solid #d5d5d5;
@@ -128,7 +132,7 @@ footer a {
 hr.light-100 {
 	border-top: 1px solid #d5d5d5;
 	width:100%;
-	margin-top: .8rem;
+	margin-top: .2rem;
 	margin-bottom: 1rem;
 }
 
